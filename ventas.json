@@ -1,0 +1,52 @@
+[
+    {
+        "id": 2877,
+        "titulo": "dota 2 ",
+        "mail": "Juan@gmail.com",
+        "tipo": "Videojuego",
+        "formato": "digital",
+        "fecha": "2024-10-10",
+        "imagen": "ClienteEnojada.jpg",
+        "cantidad": "3",
+        "costo": 7500,
+        "fechaDeSalida": "1984"
+    },
+    {
+        "id": 2090,
+        "titulo": "dota 2 ",
+        "mail": "Lautaro@gmail.com",
+        "tipo": "Videojuego",
+        "formato": "digital",
+        "fecha": "2024-10-10",
+        "imagen": "Cliente.jpg",
+        "cantidad": "5",
+        "costo": 12500,
+        "fechaDeSalida": "1984"
+    },
+    {
+        "id": 4317,
+        "titulo": "Terminator",
+        "mail": "Rocio@gmail.com",
+        "tipo": "Pelicula",
+        "formato": "Fisico",
+        "fecha": "2024-10-10",
+        "imagen": "Cliente.jpg",
+        "cantidad": "1",
+        "costo": 2500,
+        "fechaDeSalida": "1984",
+        "borrado": true
+    },
+    {
+        "id": 6889,
+        "titulo": "Devli May cry",
+        "mail": "Laureano@gmail.com",
+        "tipo": "Videojuego",
+        "formato": "digital",
+        "fecha": "2024-10-10",
+        "imagen": "chocolate.jpg",
+        "cantidad": "1",
+        "costo": 2500,
+        "fechaDeSalida": "1984",
+        "borrado": true
+    }
+]

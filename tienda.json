@@ -1,0 +1,62 @@
+[
+    {
+        "id": 728,
+        "titulo": "Terminator",
+        "precio": "2500",
+        "tipo": "Pelicula",
+        "fechaDeSalida": "1984",
+        "formato": "Fisico",
+        "stock": 7,
+        "imagen": "Terminator 1(1984).webp"
+    },
+    {
+        "id": 801,
+        "titulo": "Terminator 2",
+        "precio": "3000",
+        "tipo": "Pelicula",
+        "fechaDeSalida": "1991",
+        "formato": "digital",
+        "stock": 14,
+        "imagen": "Terminator 2.webp"
+    },
+    {
+        "id": 9201,
+        "titulo": "Iron man ",
+        "precio": "5000",
+        "tipo": "Pelicula",
+        "fechaDeSalida": "2008",
+        "formato": "digital",
+        "stock": "100",
+        "imagen": "iron man 1.webp"
+    },
+    {
+        "id": 1153,
+        "titulo": "Devli May cry",
+        "precio": "15000",
+        "tipo": "Videojuego",
+        "fechaDeSalida": "2013",
+        "formato": "digital",
+        "stock": 1195,
+        "imagen": "DMC.webp"
+    },
+    {
+        "id": 1911,
+        "titulo": "dota 2 ",
+        "precio": "0",
+        "tipo": "Videojuego",
+        "fechaDeSalida": "2013",
+        "formato": "digital",
+        "stock": 19986,
+        "imagen": "Dota.webp"
+    },
+    {
+        "id": 622,
+        "tituloPelicula": "Terminator",
+        "precio": "16000",
+        "tipo": "combo",
+        "formatoPelicula": "Fisico",
+        "tituloVidejuego": "Devli May cry",
+        "formatoVidejuego": "digital",
+        "imagen": "DMC.webp"
+    }
+]
